@@ -24,4 +24,7 @@ Predicting AI model
 yolo task=classify mode=predict model=runs/classify/train#/weights/best.pt source=carDataset/test
 ```
 
+## Output
 
+![Audi_A5_1](https://github.com/user-attachments/assets/56ef9e8e-16ac-4e6d-9e4d-1c9abcf94e24)
+![Ferrari_F40_1](https://github.com/user-attachments/assets/99fdc07c-3e06-41a6-9fba-0cb18d140d63)
